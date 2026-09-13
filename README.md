@@ -18,7 +18,7 @@ Authored by Jonathan Miller (`silicoindev@proton.me`).
 
 ## Cryptographic Verification
 
-To ensure the whitepaper has not been tampered with and was officially signed by the author, you can verify the detached PGP signature locally[cite: 3]. 
+To ensure the whitepaper has not been tampered with and was officially signed by the author, you can verify the detached PGP signature locally. 
 
 **1. Download the files**
 Ensure `WHITEPAPER.pdf`, `WHITEPAPER.pdf.asc`, and `jonathan_miller_pub.asc` are all downloaded into the same directory.
