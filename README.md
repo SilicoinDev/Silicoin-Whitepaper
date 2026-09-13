@@ -30,8 +30,9 @@ gpg --import jonathan_miller_pub.asc
 
 **3. Verify the signature
 
-Bash
+```Bash
 gpg --verify WHITEPAPER_2.pdf.asc WHITEPAPER_2.pdf
+```
 Expected Output:
 If the file is pristine, your terminal will output:
 Good signature from "Jonathan Miller <silicoindev@proton.me>"
